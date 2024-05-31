@@ -1,0 +1,13 @@
+Code to add additional SWEM tack items done by kyraltre, this includes:
+-- Initial Data Generator files
+-- Tack registry
+-- Asset Directory
+
+--- Also worked on refactoring the directory to be more accurate to the system
+
+
+Textures for the SWEM tack done by Sc4ry_dreams, Haku and Lisssa
+
+Textures of blocks done by Sc4ry_dreams
+
+Base coding done by Sc4ry_dreams
